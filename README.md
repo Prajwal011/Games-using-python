@@ -1,4 +1,4 @@
-Games created using python programming language 
+Steps to create games using python
 
 You can play the games here
 
